@@ -1,5 +1,5 @@
 var dropdownOptionsName = "Dropdown options";
-var ssId = "1aTClfmXZz7sk_jh-rNAgDlPu5HWLWzapFXmLALk4kNo"
+var ssId = ""
 
 function getDatesListFromSpreadSheet() {
   // identify the sheet where the data resides needed to populate the drop-down
