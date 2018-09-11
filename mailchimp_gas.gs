@@ -1,4 +1,4 @@
-var API_KEY = "b92898c75cfabd0fceeaf307ee614a00-us14";
+var API_KEY = "";
 var mc_base_url = 'http://us14.api.mailchimp.com/3.0/';
 var mc_list_id = '7b6b502530';
 var mc_double_optin = false;
